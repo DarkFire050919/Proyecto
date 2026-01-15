@@ -1,4 +1,4 @@
-// Sample Kotlin class
+```kotlin
 package com.example
 
 class SampleKotlinClass {
@@ -6,3 +6,4 @@ class SampleKotlinClass {
         return "Hello, $name!"
     }
 }
+```
